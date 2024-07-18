@@ -1,6 +1,10 @@
 # Investment Calculator
 
-This project was created to follow along with the Udemy course [*Angular - The Complete Guide (2024 Edition)*](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller. All CSS styling and calculation function logic was provided as part of the course, as the focus was on learning and implementing Angular.
+The ever-so-aptly named *Investment Calculator* is a web application, written in Angular v18, which calculates a total investment value, the amount of interest accrued that year and in total, and the total amount of capital invested. This data is based on initial values provided by the user, namely: the intial investment, the amount invested annually, the expected return percentage, and the total number of years to invest.
+
+> This project was created to follow along with the Udemy course [*Angular - The Complete Guide (2024 Edition)*](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller. All CSS styling and calculation function logic was provided as part of the course, as the focus was on learning and implementing Angular.
+
+![Demo image](./demo-image.png)
 
 &nbsp;
 
